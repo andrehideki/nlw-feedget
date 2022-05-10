@@ -7,7 +7,7 @@
     "test": "jest",
     "dev": "ts-node-dev src/server.ts",
     "build": "tsc",
-    "start": "prisma migrate production && node dist/server.js"
+    "start": "node dist/server.js"
   },
   "keywords": [],
   "author": "",
