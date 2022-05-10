@@ -5,6 +5,7 @@ A widget for users to submit application feedbacks
 https://nlw-feedget-9v7avch0b-andrehideki.vercel.app/
 
 # Layout Web
+<img src="https://github.com/andrehideki/nlw-feedget/blob/master/assets/feedget-web.gif"/>
 # Layout Mobile
 
 # Stacks
