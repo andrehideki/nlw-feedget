@@ -12,6 +12,7 @@ The application consists of a tool for collecting feedback from the application 
 
 ## Layout Mobile
 <img src="https://github.com/andrehideki/nlw-feedget/blob/master/assets/feedget-mobile.gif" />
+
 ## Stacks
 ### server
 - Node
