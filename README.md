@@ -27,7 +27,3 @@ The application consists of a tool for collecting feedback from the application 
 ### mobile
 - React Native
 
-## How to run
-```bash
-
-```
