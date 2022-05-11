@@ -8,10 +8,10 @@ This application project was developed during the NLW event offered by RocketSea
 The application consists of a tool for collecting feedback from the application by the users, and that can be reused in any project that uses React or React Native.
 
 ## Layout Web
-<img src="https://github.com/andrehideki/nlw-feedget/blob/master/assets/feedget-web.gif">
+<img src="https://github.com/andrehideki/nlw-feedget/blob/master/assets/feedget-web.gif" />
 
 ## Layout Mobile
-
+<img src="https://github.com/andrehideki/nlw-feedget/blob/master/assets/feedget-mobile.gif" />
 ## Stacks
 ### server
 - Node
